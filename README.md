@@ -25,12 +25,10 @@ Happy Summer Holiday! Now that the weather is hot, it's better to relax on a sun
 
 <img align="center" src="https://cdn.jsdelivr.net/gh/katorlys/SummertimeSpawn/screenshots/pic(8).PNG"><br>
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/katorlys/SummertimeSpawn/screenshots/pic(9).PNG"><br>
-
 ## Download
 
-<a href="https://github.com/katorlys/SummertimeSpawn/raw/main/SummertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download1.png"></a><a href="https://github.com.cnpmjs.org/katorlys/SummertimeSpawn/raw/main/SummertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download2.png"></a><a href="https://hub.fastgit.org/katorlys/SummertimeSpawn/raw/main/SummertimeSpawn.schem" target="_blank"><img align="center" width="33%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/SocialLinks/Download3.png"></a><br>
-Still unable to download? Try downloading the entire repository through the mirror sites.<br>
+<a href="https://github.com/katorlys/SummertimeSpawn/raw/main/SummertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://cdn.jsdelivr.net/gh/katorlys/SummertimeSpawn/SummertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/jsdelivr-download.png"></a><a href="https://github.katorly.workers.dev/katorlys/SummertimeSpawn/raw/main/SummertimeSpawn.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br>
+Unable to download? Try downloading the entire repository.<br>
 
 ## Notice
 
